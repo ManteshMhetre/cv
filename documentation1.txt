@@ -1,0 +1,5 @@
+site->mdn,W3 schools,devdocs.io
+
+
+some HTML tags have opening and closing tags.
+while some are self closing ex:(br,) 
